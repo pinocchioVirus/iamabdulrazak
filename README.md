@@ -15,9 +15,8 @@
 <br />
 <br />
 
-<img align="left" alt="Abdulrazak Github Status" src="https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&hide_border=true&theme=radical"/>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchiovirus&theme=radical&hide_border=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchiovirus&theme=chartreuse-dark&hide_border=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&theme=chartreuse-dark)
 
 [mywebsite]: https://zaak.azurewebsites.net
 [facebook]:https://facebook.com/pinocchiovirus
