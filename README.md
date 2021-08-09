@@ -15,7 +15,9 @@
 <br />
 <br />
 
-<img align="left" alt="Abdulrazak Github Status" src="https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&hide_border=true&theme=tokyonight"/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchiovirus&theme=radical&hide_border=true)
+
+<img align="left" alt="Abdulrazak Github Status" src="https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&hide_border=true&theme=radical"/>
 
 [mywebsite]: https://zaak.azurewebsites.net
 [facebook]:https://facebook.com/pinocchiovirus
