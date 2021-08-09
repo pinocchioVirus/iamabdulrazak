@@ -15,8 +15,9 @@
 <br />
 <br />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchiovirus&theme=chartreuse-dark&hide_border=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&theme=chartreuse-dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchiovirus&theme=gotham&hide_border=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&theme=gotham)
 
 [mywebsite]: https://zaak.azurewebsites.net
 [facebook]:https://facebook.com/pinocchiovirus
